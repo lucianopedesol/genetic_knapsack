@@ -17,7 +17,7 @@ items = [
 ]
 
 # Capacidade máxima da mochila
-MAX_CAPACITY = 20
+MAX_CAPACITY = 50
 
 
 def generate_individual():
