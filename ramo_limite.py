@@ -1,4 +1,9 @@
 '''
+
+O algoritmo do Ramo e Limite (Branch and Bound) é uma abordagem sistemática que explora recursivamente o espaço de 
+solução do problema, dividindo-o em subproblemas menores e aplicando limites inferiores para eliminar soluções inviáveis.
+
+
 O algoritmo genético é uma abordagem heurística baseada em evolução que tenta encontrar soluções 
 ótimas através de operadores genéticos, como seleção, cruzamento e mutação. Ele é adequado 
 para problemas de otimização combinatória, como o problema da mochila, onde é necessário 
